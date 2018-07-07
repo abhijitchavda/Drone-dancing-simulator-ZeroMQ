@@ -4,8 +4,6 @@ a drone dancing simulator in Python using ZeroMQ as a communication protocol.
 
 Used REQ/RES for drones to connect to the server and PUB/SUB for server to send new cordinates to registered drones.
 
-![](https://usatftw.files.wordpress.com/2018/02/drones.jpg)
-
 The simulator has two components:
 - Server
 - Client
